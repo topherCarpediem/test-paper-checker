@@ -45,7 +45,7 @@ cv2.imshow('thresh', thresh)
 #     if sd.detect_box(contour):
 #         print('box detected')
 
-
+test = None
 
 
 while True:
